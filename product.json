@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Pizza Margherita",
+    "image": "",
+    "price": 250,
+    "qty": 2
+  },
+  {
+    "name": "Choco Lava Cake",
+    "image": "",
+    "price": 150,
+    "qty": 1
+  }
+]
